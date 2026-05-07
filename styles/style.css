@@ -70,7 +70,7 @@ header {
 
 .overlay {
   position: absolute;
-  opacity: 60%; 
+  opacity: 60%;
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -97,7 +97,7 @@ header {
 .aligned-text_left {
   text-align: left;
 }
-.aligned-text_center { 
+.aligned-text_center {
   vertical-align: middle;
 }
 .aligned-text_right {
@@ -112,7 +112,7 @@ header {
   color: #FFFFFF;
   display: flex;
   flex-direction: row;
-  justify-content: space-around; 
+  justify-content: space-around;
   align-items: center;
   z-index: 2;
 }
@@ -183,7 +183,7 @@ header {
 }
 .overlay {
   position: absolute;
-  opacity: 60%; 
+  opacity: 60%;
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -302,7 +302,7 @@ background-attachment: inherit;
 }
 
 .address {
-  left: 50px;         
+  left: 50px;
   max-width: 264.5px;
   height: 98px;
   display: flex;
