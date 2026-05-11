@@ -175,7 +175,6 @@ header {
   padding-left: 40px;
   color: #000000;
   font-size: 40px;
-  font-weight: bold;
   font-weight: 700;
   line-height: 100%;
   letter-spacing: 0px;
@@ -287,8 +286,7 @@ header {
  margin-left: 46px;
 }
 .about_title {
- margin-bottom:100px;
- font-weight: bold;
+ margin-bottom: 100px;
  font-weight: 700;
  font-size: 40px;
  line-height: 100%;
@@ -338,7 +336,7 @@ header {
   list-style-type: none;
   text-align: center;
 }
-.footer_menu-link_active{
+.footer_menu-link_active {
   text-decoration: none;
 }
 .footer_social-list {
